@@ -1,0 +1,18 @@
+{
+  "name": "eveforge-main",
+  "version": "1.0.0",
+  "description": "A robust, scalable event management system powered by Node.js, Express.js and MongoDB.",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "Balaji T, Karthick R, Muthu Shankar M, Antony Jeri Christo",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.0.3"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "nodemailer": "^6.9.9"
+  }
+}
